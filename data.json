@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "date": "2026-01-28",
+    "stock_id": "4749",
+    "foreign_investors": 38839,
+    "investment_trust": 98000,
+    "dealer": 51543
+  },
+  {
+    "date": "2026-01-29",
+    "stock_id": "4749",
+    "foreign_investors": -299732,
+    "investment_trust": 1350,
+    "dealer": -25456
+  },
+  {
+    "date": "2026-01-30",
+    "stock_id": "4749",
+    "foreign_investors": -126747,
+    "investment_trust": 18300,
+    "dealer": 78548
+  }
+]
