@@ -21,10 +21,31 @@
     "dealer": 78548
   },
   {
+    "date": "2026-02-02",
+    "stock_id": "4749",
+    "foreign_investors": -61081,
+    "investment_trust": -57000,
+    "dealer": -753
+  },
+  {
     "date": "2026-02-03",
     "stock_id": "4749",
     "foreign_investors": -234980,
     "investment_trust": -1000,
     "dealer": -44676
+  },
+  {
+    "date": "2026-02-04",
+    "stock_id": "4749",
+    "foreign_investors": 165000,
+    "investment_trust": 0,
+    "dealer": 40910
+  },
+  {
+    "date": "2026-02-05",
+    "stock_id": "4749",
+    "foreign_investors": -97900,
+    "investment_trust": -3941,
+    "dealer": -10956
   }
 ]
