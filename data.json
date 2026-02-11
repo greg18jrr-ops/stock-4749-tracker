@@ -68,5 +68,12 @@
     "foreign_investors": -53789,
     "investment_trust": -24801,
     "dealer": -15669
+  },
+  {
+    "date": "2026-02-11",
+    "stock_id": "4749",
+    "foreign_investors": 88002,
+    "investment_trust": -98000,
+    "dealer": -7966
   }
 ]
